@@ -511,7 +511,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 </details>
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-
+- https://www.youtube.com/watch?v=odNJmw5TOEE&feature=youtu.be&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291 
 <details>
 <summary>Algorithmic complexity / Big-O / Asymptotic analysis</summary>
 
@@ -1435,6 +1435,7 @@ Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
+- [Interviewing.io](interviewing.io)
 
 </details>
 
